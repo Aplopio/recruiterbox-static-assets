@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2992"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="braces.svg"
+   inkscape:export-filename="/home/viky/code/aplopio/recruiterbox/recruiterbox/static/images/settings/braces-key.png"
+   inkscape:export-xdpi="5.8299999"
+   inkscape:export-ydpi="5.8299999">
+  <defs
+     id="defs2994" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="163.84201"
+     inkscape:cy="516.10231"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1871"
+     inkscape:window-height="1056"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2997">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3000"
+       style="font-size:500px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch;font-stretch:normal;font-variant:normal"
+       transform="translate(-132.32998,-51.51778)"><flowRegion
+         id="flowRegion3002"><rect
+           id="rect3004"
+           width="638.41644"
+           height="753.57379"
+           x="202.0305"
+           y="261.41275"
+           style="font-size:500px;-inkscape-font-specification:Courier 10 Pitch;font-family:Courier 10 Pitch;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
+         id="flowPara3006"
+         style="font-size:500px;-inkscape-font-specification:Courier 10 Pitch;font-family:Courier 10 Pitch;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">{}</flowPara></flowRoot>    <path
+       style="fill:#010101"
+       inkscape:connector-curvature="0"
+       d="m 477.85307,548.80478 -17.318,-18.88192 H 359.0949 c -8.67299,-16.51066 -24.94963,-27.65569 -43.63604,-27.61152 -27.83919,-0.0627 -50.38336,24.54744 -50.44576,54.86269 0.0624,30.38731 22.60657,54.9952 50.44576,55.0417 18.63477,-0.0325 34.87483,-11.14273 43.56288,-27.6092 h 20.40336 l 16.16261,-17.45916 12.36509,13.36521 11.87022,-12.82819 12.19726,13.17458 12.36508,-13.35359 12.36509,13.35359 21.10477,-22.79456 c 3.04877,-3.4337 3.12624,-5.84219 -0.002,-9.25963 z m -184.48225,22.80386 c -7.44013,-0.0744 -13.42366,-6.61636 -13.35481,-14.61363 -0.0688,-8.10653 5.91468,-14.64384 13.35481,-14.60664 7.3175,-0.0419 13.30102,6.50011 13.35696,14.60664 -0.0538,7.99727 -6.03731,14.53691 -13.35696,14.61363 z"
+       id="path3" />
+  </g>
+</svg>
