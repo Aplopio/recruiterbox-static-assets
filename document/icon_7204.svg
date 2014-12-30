@@ -1,0 +1,13 @@
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Livello_1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<metadata>
+	<sfw xmlns="http://ns.adobe.com/SaveForWeb/1.0/">
+		<slices/>
+		<sliceSourceBounds height="95" width="77" x="12" y="-98" bottomLeftOrigin="true"/>
+	</sfw>
+</metadata>
+<path fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" d="M86.5,89.483c0,3.323-2.693,6.017-6.017,6.017  H20.517c-3.323,0-6.017-2.693-6.017-6.017V11.517c0-3.323,2.694-6.017,6.017-6.017h59.967c3.323,0,6.017,2.694,6.017,6.017V89.483z"/>
+<rect x="25" y="40" width="50" height="7"/>
+<rect x="25" y="69" width="50" height="7"/>
+<rect x="25" y="54" width="50" height="7"/>
+<rect x="25" y="27" width="23" height="7"/>
+</svg>
